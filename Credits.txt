@@ -1,0 +1,21 @@
+Art:
+Vaporwave RPG Furniture (https://xenophero.itch.io/vaporwave-rpg-furniture)
+Pixel Fantasy - Character Generator (https://cazwolf.itch.io/pixel-charagen)
+Parallax Sunset Background (https://digitalmoons.itch.io/free-parallax-pixel-sunset-background)
+
+Audio:
+Music - Stevia Sphere (https://steviasphere.bandcamp.com/)
+Digital UI Sounds (https://confuocov.itch.io/50-useme4free-digital-ui-sounds-sample-pack)
+Universal UI/Menu Soundpack (https://cyrex-studios.itch.io/universal-ui-soundpack)
+Text/Dialogue Bleeps Pack (https://dmochas-assets.itch.io/dmochas-bleeps-pack)
+Freesound (freesound.org)
+
+Plugins:
+Yanfly - https://yanflyengineplugins.itch.io/free-starter-pack-essentials
+Galv - https://galvs-scripts.com/terms-of-use/
+SRDude - https://twitter.com/SomeRanDev
+Quasi - https://quxios.github.io/plugins
+Sasuke KANNAZUKI - https://forums.rpgmakerweb.com/index.php?members/sasuke_kannazuki.249158/
+Huddle - https://github.com/Hudell/mv-plugins
+Aerosys - https://aerosys.itch.io
+Kelly Chavez - https://github.com/kchavezdev

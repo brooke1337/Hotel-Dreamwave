@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"max_battler","characterIndex":0,"characterName":"max","classId":1,"equips":[1],"faceIndex":0,"faceName":"max_face","traits":[],"initialLevel":42,"maxLevel":42,"name":"Max","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"oldman","classId":2,"equips":[],"faceIndex":2,"faceName":"oldman_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"lover","nickname":"","note":"","profile":""}
+]
